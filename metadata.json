@@ -1,0 +1,6 @@
+{
+  "name": "Robotic Arm Component Selection & Design Management System",
+  "description": "Mechanical engineering decision-support tool and DBMS for robotic arm design, torque calculations, component recommendation, compatibility checking, cost estimation, and testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
